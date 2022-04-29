@@ -91,11 +91,12 @@ By using kick, add, promote, demote Commands, Your WhatsApp account may be banne
 ## DEVELOPERS
   <div align="center">
     
-  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/SPIRITSER) |  [![spirit ser](https://github.com/SPIRITSER.png?size=100)](https://github.com/SPIRITSER) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|---
-[Midhunser](https://github.com/SPIRITSER)  | [spirit ser](https://github.com/SPIRITSER) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+ [![`SPIRIT SER`](https://github.com/SPIRITSER.png?size=200)](https://github.com/SPIRITSER)
+
+[`SPIRIT SER`](https://github.com/SPIRITSER)  
+Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
+    
     
 
 
