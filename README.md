@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/SPIRITSER">SPIRIT-SER</a> to make
 
   ### SIMPLE METHOD
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPIRITSER/SPIRIT-SER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CgArshith/SPIRIT-SER.git)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@BotYt1/SPIRITSER-OR?v=1)
